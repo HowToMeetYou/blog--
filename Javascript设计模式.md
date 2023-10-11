@@ -1,4 +1,4 @@
-![image](https://github.com/HowToMeetYou/blog--/assets/41479550/ee5f58cf-8445-42c3-802f-49e6e0791140)## 1.面向对象编程设计的5个基本原则（SOLID）：
+## 1.面向对象编程设计的5个基本原则（SOLID）：
 
 * 单一功能原则(Single Responsibility Principle)
 * 开放封闭原则(Opened Closed Principle)
